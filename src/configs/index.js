@@ -248,3 +248,8 @@ export const DEFAULT_LANGUAGE = 0;
 
 export const hryvniaUnicode = '\u20b4';
 export const dollarUnicode = '\u0024';
+
+export const profileTabs = [
+  ['Профіль', 'Історія покупок'],
+  ['Profile', 'Order history']
+];
